@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "mocha""
-},
+}
+,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SarahCT/Microservice.git"
