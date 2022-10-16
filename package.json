@@ -7,8 +7,8 @@
     "axios": "^0.27.2"
   },
   "scripts": {
-    "test": "mocha"
-}
+    "test": "react-scripts test --passWithNoTests"
+  }
 ,
   "repository": {
     "type": "git",
